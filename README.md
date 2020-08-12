@@ -1,6 +1,6 @@
-# Dracula for Plank(https://launchpad.net/plank)
+# Dracula for [Plank](https://launchpad.net/plank)
 
-> A dark theme for Plank(https://launchpad.net/plank).
+> A dark theme for [Plank](https://launchpad.net/plank).
 
 ![Screenshot](./screenshot.png)
 
