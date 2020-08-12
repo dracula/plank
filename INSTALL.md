@@ -10,8 +10,8 @@
 
 #### Install manually
 
-1. Download using the [GitHub .zip download](https://github.com/dracula/plank/archive/master.zip) option and unzip them.
-2. Move `Dracula` folder to `$HOME/.local/share/plank/themes`.
+1. Download using the [GitHub .zip download](https://github.com/dracula/plank/archive/master.zip) option and unzip them
+2. Move `Dracula` folder to `$HOME/.local/share/plank/themes`
 
 #### Activating theme
 
