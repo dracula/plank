@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for Plank(https://launchpad.net/plank)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for Plank(https://launchpad.net/plank).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/plank](https://draculatheme.com/plank).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Welton Felix](https://avatars0.githubusercontent.com/u/52381662?v=3&s=70)](https://github.com/weltonfelix)
+
+[Welton Felix](https://github.com/weltonfelix)
 
 ## License
 
