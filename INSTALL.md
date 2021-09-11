@@ -4,7 +4,7 @@
 
 1. If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-        $ git clone https://github.com/dracula/plank.git
+        git clone https://github.com/dracula/plank.git
         
 2. Move `Dracula` folder to `$HOME/.local/share/plank/themes`.
 
@@ -17,7 +17,7 @@
 
 1. Open plank preferences dialog:
     
-        $ plank --preferences
+        plank --preferences
     
 2. Select `Dracula`
 
