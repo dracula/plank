@@ -6,12 +6,12 @@
 
         git clone https://github.com/dracula/plank.git
         
-2. Move `Dracula` folder to `$HOME/.local/share/plank/themes`.
+2. Move `Dracula {color}` folder to `$HOME/.local/share/plank/themes`.
 
 #### Install manually
 
 1. Download using the [GitHub .zip download](https://github.com/dracula/plank/archive/master.zip) option and unzip them
-2. Move `Dracula` folder to `$HOME/.local/share/plank/themes`
+2. Move `Dracula {color}` folder to `$HOME/.local/share/plank/themes`
 
 #### Activating theme
 
@@ -19,6 +19,6 @@
     
         plank --preferences
     
-2. Select `Dracula`
+2. Select `Dracula {color}`
 
 3. Boom! It's working

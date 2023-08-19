@@ -2,7 +2,32 @@
 
 > A dark theme for [Plank](https://launchpad.net/plank).
 
-![Screenshot](./screenshot.png)
+### Dark
+![Screenshot theme dark](./screenshots/dracula-dark.png)
+
+### Dark Alt
+![Screenshot theme dark alt](./screenshots/dracula-dark-alt.png)
+
+### Cyan
+![Screenshot theme cyan](./screenshots/dracula-cyan.png)
+
+### Green
+![Screenshot theme green](./screenshots/dracula-green.png)
+
+### Orange
+![Screenshot theme orange](./screenshots/dracula-orange.png)
+
+### Pink
+![Screenshot theme pink](./screenshots/dracula-pink.png)
+
+### Purple
+![Screenshot theme purple](./screenshots/dracula-purple.png)
+
+### Red
+![Screenshot theme red](./screenshots/dracula-red.png)
+
+### Yellow
+![Screenshot theme yellow](./screenshots/dracula-yellow.png)
 
 ## Install
 
